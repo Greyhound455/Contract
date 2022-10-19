@@ -25,6 +25,7 @@ class Main {
 
     public String getWord(){
       System.out.println("Here is your new name: " );
+      System.out.pritnln("who needs your old name lmao")
       return word;
     }
   }
